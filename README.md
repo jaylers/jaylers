@@ -21,4 +21,11 @@
 - Building **couby** to help coding agents find their way
 - Making Roblox UI that scales cleanly on every screen
 
+### ✦ Contact
+
+<p>
+  <a href="https://jayler.dev"><img src="https://img.shields.io/badge/Website-jayler.dev-0b1530?style=for-the-badge&logo=googlechrome&logoColor=ffe9a8&labelColor=132a52" alt="Website: jayler.dev"></a>
+  <a href="mailto:claude@jayler.dev"><img src="https://img.shields.io/badge/Email-claude%40jayler.dev-0b1530?style=for-the-badge&logo=maildotru&logoColor=ffe9a8&labelColor=132a52" alt="Email: claude@jayler.dev"></a>
+</p>
+
 <p align="center"><sub>✦ · follow the stars · ✦</sub></p>
