@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 150" width="440" height="150" role="img" aria-label="fable-ui-roblox: Fine-grained reactive UI framework for Roblox with built-in responsive scaling.">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070d22"/>
+      <stop offset="1" stop-color="#132a52"/>
+    </linearGradient>
+    <style>
+      .t { animation: tw 3.2s ease-in-out infinite; }
+      .d1 { animation-delay: 1.1s } .d2 { animation-delay: 2.2s }
+      @keyframes tw { 0%,100% { opacity: .25 } 50% { opacity: 1 } }
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="439" height="149" rx="14" fill="url(#sky)" stroke="#8fb0ff" stroke-opacity=".25"/>
+  <g fill="#dfe8ff">
+    <circle class="t" cx="392" cy="22" r="1.2"/>
+    <circle class="t d1" cx="414" cy="48" r="1"/>
+    <circle class="t d2" cx="372" cy="40" r="1.4"/>
+  </g>
+  <path d="M24 26 L26 33 L33 35 L26 37 L24 44 L22 37 L15 35 L22 33 Z" fill="#ffe9a8"/>
+  <text x="42" y="42" fill="#ffffff" font-size="20" font-weight="700">fable-ui-roblox</text>
+  <text x="24" y="76" fill="#a9bce6" font-size="14"><tspan x="24">Fine-grained reactive UI framework for</tspan><tspan x="24" dy="20">Roblox with built-in responsive scaling.</tspan></text>
+  <circle cx="30" cy="126" r="6" fill="#00a2ff"/>
+  <text x="42" y="131" fill="#dfe8ff" font-size="13">Luau</text>
+  <text x="416" y="131" fill="#ffe9a8" font-size="12" text-anchor="end" letter-spacing="2" opacity=".8">VIEW REPO →</text>
+</svg>

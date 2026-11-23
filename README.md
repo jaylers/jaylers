@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/badge/Roblox-0b1530?style=flat-square&logo=roblox&logoColor=ffe9a8" alt="Roblox">
 </p>
 
-### ✦ Constellations
+### ✦ Pinned constellations
 
-| | Project | What it is |
-|:-:|---|---|
-| ⭐ | [**couby**](https://github.com/jaylers/couby) | Kaito (海斗) — your guiding star for coding agents. Written in Rust. |
-| 🌊 | [**fable-ui-roblox**](https://github.com/jaylers/fable-ui-roblox) | Fine-grained reactive UI framework for Roblox, with built-in responsive scaling. Written in Luau. |
+<p align="center">
+  <a href="https://github.com/jaylers/couby"><img src="assets/card-couby.svg" alt="couby — Kaito (海斗), your guiding star for coding agents. Rust." width="49%"></a>
+  <a href="https://github.com/jaylers/fable-ui-roblox"><img src="assets/card-fable-ui-roblox.svg" alt="fable-ui-roblox — fine-grained reactive UI framework for Roblox with built-in responsive scaling. Luau." width="49%"></a>
+</p>
 
 ### ✦ Currently
 
